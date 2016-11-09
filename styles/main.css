@@ -1,0 +1,28 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  /*box-sizing: border-box;*/
+}
+
+.goldtitle {
+  width: 100%;
+  text-align: left;
+}
+
+.goldbar {
+  background-color: rgb(217, 183, 5);
+  width: 100%;
+  margin-bottom: 30px;
+}
+div.box {
+  border: 1px solid black;
+  margin-bottom: 30px;
+}
+.picture {
+    width: 100%;
+    height: auto;
+}
+
+.name, .description{
+  text-align: left;
+  padding-left: 1em;
+}
